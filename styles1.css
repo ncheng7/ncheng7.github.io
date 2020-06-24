@@ -1,0 +1,370 @@
+.Common
+{
+	font-family:	Arial;
+	font-size:		14px;
+	color:			#000000;
+}
+
+.Small
+{
+	font-size:		12px;
+}
+
+.Title
+{
+	font-size:		28px;
+	color:			#353535;
+	font-weight: 	bold;
+}
+
+.TitleWhite
+{
+	font-size:		38px;
+	color:			#FFFFFF;
+	font-weight: 	bold;
+}
+
+a:link 
+{
+	color: #D73700;
+	text-decoration: none;
+}
+
+a:hover 
+{
+	color:#D73700;
+	text-decoration: underline;
+}
+
+
+.Introduction
+{
+	color:			#353535;
+}
+
+.Directions
+{
+	font-size:		20px;
+	color:			#0046D4;
+	leading:		4px;
+}
+
+.HelpBody
+{
+	font-family:	Arial;
+	font-size:		18px;
+	color:			#000000;
+}
+
+.HelpBodyLink
+{
+	font-family:	Arial;
+	font-size:		18px;
+	color:			#000000;
+}
+
+.HelpBodyLink:hoover
+{
+	font-family:	Arial;
+	font-size:		18px;
+	color:			#424242;
+}
+
+.POVComplete
+{
+	color:#D73700;
+	font-size:		20px;
+}
+
+.ExamQuestion
+{
+	font-size:		20px;
+	color:			#353535;
+	leading:		2px
+}
+
+.ExamDirections
+{
+	font-size:		20px;
+	color:			#0046D4;
+	leading:		2px;
+}
+
+.ExamBtnLabel
+{
+	font-family:	Arial;
+	font-size:		18px;
+	color:			#FFFFFF;
+}
+
+.ExamFoilLabel
+{
+	font-family:	Arial;
+	font-size:		18px;
+	color:			#353535;
+}
+
+.Navigation
+{
+	font-size:		16px;
+	color:			#0046D4;
+}
+
+.VideoPresentation
+{
+	font-size:		26px;
+	color:			#000000;
+	leading:		4px;
+}
+
+.PresentationWhite
+{
+	font-size:		26px;
+	color:			#FFFFFF;
+	leading:		4px;
+}
+
+.VideoPresentationSmall
+{
+	font-size:		24px;
+	color:			#000000;
+	leading:		4px;
+}
+
+.POVWindshield
+{
+	font-size:		30px;
+	color:			#990000;
+	font-weight: 	bold;
+	text-align:		center;
+	dropshadow:		true;
+}
+
+.POVWindshieldCorrect
+{
+	font-size:		30px;
+	color:			#009900;
+	font-weight: 	bold;
+	text-align:		center;
+	dropshadow:		true;
+}
+
+.POVDirections
+{
+	font-size:		30px;
+	color:			#FFFFFF;
+	font-weight: 	bold;
+	text-align:		center;
+	dropshadow:		true;
+}
+
+.POVDashboard
+{
+	font-size:		16px;
+	color:			#FFFFFF;
+}
+
+.ActivityButton
+{
+	font-size:		24px;
+	color:			#000000;
+	font-weight: 	bold;
+}
+
+.SummaryLabel
+{
+	font-size:		28px;
+	color:			#FFFFFF;
+	font-weight: 	bold;
+}
+
+.SummaryLabelSafe
+{
+	font-size:		28px;
+	color:			#146300;
+	font-weight: 	bold;
+}
+
+.SummaryLabelLate
+{
+	font-size:		28px;
+	color:			#FF9B01;
+	font-weight: 	bold;
+}
+
+.SummaryLabelRisky
+{
+	font-size:		28px;
+	color:			#FF9B01;
+	font-weight: 	bold;
+}
+
+.SummaryLabelUnsafe
+{
+	font-size:		28px;
+	color:			#B30808;
+	font-weight: 	bold;
+}
+
+.SummaryLabelMissed
+{
+	font-size:		28px;
+	color:			#B1CCDD;
+	font-weight: 	bold;
+}
+
+.SummaryContent
+{
+	font-size:		14px;
+	color:			#FFFFFF;
+}
+
+.WhiteSwapText
+{
+	font-size:		14px;
+	color:			#FFFFFF;
+	leading:		4px;
+}
+
+.ReviewList
+{
+	font-size:		19px;
+	color:			#000000;
+	leading:		4px;
+}
+
+.PanelText
+{
+	font-size:		14px;
+	color:			#000000;
+	leading:		4px;
+}
+
+.PanelTitle
+{
+	font-size:		26px;
+	color:			#000000;
+	leading:		4px;
+}
+
+.PanelDirections
+{
+	font-size:		14px;
+	color:			#0046D4;
+	leading:		4px;
+}
+
+.PanelHeader
+{
+	font-size:		22px;
+	color:			#EC4A18;
+	font-weight: 	bold;
+}
+
+.WebLinkLabel
+{
+	font-size:		14px;
+	color:			#000000;
+	text-align:		center;
+	font-weight: 	bold;
+}
+
+.WebLinkLabel:hover
+{
+	font-size:		14px;
+	color:			#000000;
+	text-align:		center;
+	font-weight: 	bold;
+}
+
+.WebLinkLabelBig
+{
+	font-size:		22px;
+	color:			#000000;
+	text-align:		center;
+	font-weight: 	bold;
+}
+
+.WebLinkLabelBig:hover
+{
+	font-size:		22px;
+	color:			#000000;
+	text-align:		center;
+	font-weight: 	bold;
+}
+
+.ListItem
+{
+	font-size:		20px;
+	color:			#000000;
+}
+
+.ListItem:hover
+{
+	font-size:		20px;
+	color:			#D73700;
+}
+
+.LevelHeader
+{
+	font-size:		28px;
+	color:			#333333;
+	font-weight: 	bold;
+}
+
+.LevelSummary
+{
+	font-size:		20px;
+	color:			#333333;
+	text-align:		center;
+	leading:		4px;
+}
+
+.LevelButton
+{
+	font-size:		15px;
+	color:			#FFFFFF;
+}
+
+.LevelButtonSingle
+{
+	font-size:		15px;
+	color:			#FFFFFF;
+	text-align:		center;
+}
+
+.LevelLabel
+{
+	font-size:		13px;
+	color:			#D5D5D5;
+}
+.HelpMenuLink
+{
+	font-size:		20px;
+	leading:		4px;
+}
+.HelpMenuLink:hover
+{
+	font-size:		20px;
+	color:			#424242;
+	leading:		4px;
+}
+
+.HelpPovDirections
+{
+	font-size:		20px;
+	color:			#000000;
+	leading:		4px;
+}
+
+.RiskCalcLink
+{
+	font-size:		12px;
+	color:			#0033CC;
+}
+
+.RiskCalcText
+{
+	font-size:		12px;
+	color:			#000000;
+}
